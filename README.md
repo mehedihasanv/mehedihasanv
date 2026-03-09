@@ -8,7 +8,9 @@
 ### [MERN Stack Developer]  
 
 📍 Location: Tangail, Dhaka, Bangladesh  
-📧 Email:m.hasan.professional@gmail.com   
+## 📧 Email
+[m.hasan.professional@gmail.com](mailto:m.hasan.professional@gmail.com)
+  
 
 ---
 
@@ -32,10 +34,11 @@ Currently focused on creating scalable projects with clean UI/UX and secure back
 ---
 
 ## 🌐 Connect with Me
-- [LinkedIn](in/mehedi-hasan-3a36233b4)  
-- [GitHub]([your-github-link](https://github.com/mehedihasanv))  
-- [Twitter](@HasanMehed57540)  
-- [Portfolio Website]([your-portfolio-link](https://portfolio-ruddy-nu-41.vercel.app))  
+- [LinkedIn](https://www.linkedin.com/in/mehedi-hasan-3a36233b4)  
+- [GitHub](https://github.com/mehedihasanv)  
+- [Twitter](https://twitter.com/HasanMehed57540)  
+- [Portfolio Website](https://portfolio-ruddy-nu-41.vercel.app)
+  
 
 ---
 
