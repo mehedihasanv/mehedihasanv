@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Banner](your-banner-image-link)
+![Banner] [https://github.com/mehedihasanv/mehedihasanv/raw/65863d9ec7da4ef49112d121ddcd613cec37c178/banner.png]
 
 # Hi, I'm [Mehedi Hasan] 👋
 ### [MERN Stack Developer]  
