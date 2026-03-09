@@ -45,7 +45,7 @@ Currently focused on creating scalable projects with clean UI/UX and secure back
 ## 📊 GitHub Stats
 ![Contributions](https://github-readme-stats.vercel.app/api?username=mehedihasanv&show_icons=true&theme=radical)  
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasanv&layout=compact&theme=radical)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mehedihasanv&theme=radical)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mehedihasanv&theme=radical)
 
 ---
 
