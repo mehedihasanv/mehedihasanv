@@ -2,11 +2,12 @@
 ![Banner](https://github.com/mehedihasanv/mehedihasanv/raw/65863d9ec7da4ef49112d121ddcd613cec37c178/banner.png)
 
 
-# Hi, I'm [Mehedi Hasan] 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F700&width=600&lines=Hi%2C+I'm+Mehedi+Hasan;Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB)](https://git.io/typing-svg)
+
 ### [MERN Stack Developer]  
 
 📍 Location: Tangail, Dhaka, Bangladesh  
-📧 Email:   
+📧 Email:m.hasan.professional@gmail.com   
 
 ---
 
