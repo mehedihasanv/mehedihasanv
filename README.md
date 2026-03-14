@@ -68,7 +68,7 @@ Currently focused on creating scalable projects with clean UI/UX and secure back
 
 ### 3️⃣ Project Name : App Project
 **Description:** A modern e-commerce platform with a focus on speed and conversion. Features include advanced product search with filters, real-time inventory management, secure payment processing via Stripe, order tracking, review system, and an admin dashboard with sales analytics. Optimized for Core Web Vitals with a perfect Lighthouse score. 
-🔗 [Live Link](https://portfolio-ruddy-nu-41.vercel.app/projects/App-Project)  
+🔗 [Live Link](https://teal-concha-0082e4.netlify.app/)  
 🛠️ Tech Stack: React,Javascript and TailwindCSS  
 
 ---
