@@ -56,14 +56,6 @@ Currently focused on creating scalable projects with clean UI/UX and secure back
 🔗 [Live Link](https://roaring-bubblegum-26fe9c.netlify.app)  
 🛠️ Tech Stack:Tailwind css, React,Javascript, Node.js,Express.js and MongoDB  
 
-**README should include:**
-- Overview  
-- Screenshot (if available)  
-- Main Technology  
-- Key Features  
-- Dependencies  
-- Setup Guide (how to run locally)  
-- Live Link  
 
 ---
 
